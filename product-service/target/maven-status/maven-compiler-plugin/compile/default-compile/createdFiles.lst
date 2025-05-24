@@ -1,0 +1,10 @@
+com\example\productservices\dto\ProductRequest$ProductRequestBuilder.class
+com\example\productservices\dto\ProductRequest.class
+com\example\productservices\ProductservicesApplication.class
+com\example\productservices\modal\Product.class
+com\example\productservices\modal\Product$ProductBuilder.class
+com\example\productservices\service\ProductService.class
+com\example\productservices\controller\ProductController.class
+com\example\productservices\dto\ProductResponse$ProductResponseBuilder.class
+com\example\productservices\dto\ProductResponse.class
+com\example\productservices\repositry\ProductRepository.class
